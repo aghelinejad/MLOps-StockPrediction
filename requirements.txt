@@ -1,7 +1,7 @@
 tensorflow  == 2.2.0
 Keras == 2.4.3
 Pandas == 1.0.5
-Numpy == 1.19.1
+Numpy == 1.22.0
 Matplotlib == 3.3.0
 Seaborn == 0.10.1
 Yfinance == 0.1.54
